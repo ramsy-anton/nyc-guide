@@ -1,4 +1,4 @@
-# nyc-guide
+New York City Guide
 
 New York City Guide Website Pair-Programming Project
 by Ramsy Anton (https://github.com/ramsy-anton) & Tyler Langsam (https://github.com/Tylerlangsam)
